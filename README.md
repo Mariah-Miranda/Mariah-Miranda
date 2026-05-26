@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/assets/github.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="320"/>
 
 
 </div>
