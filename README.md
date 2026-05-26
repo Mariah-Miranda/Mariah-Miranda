@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Creative+Developer+💻;Building+Impactful+Digital+Solutions+🚀;AI+%26+Cloud+Enthusiast+🤖;Problem+Solver+🧩;Always+Learning+🌱" alt="Typing SVG" />
 
-<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Creative+Developer;Building+Impactful+Digital+Solutions;AI+and+Cloud+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 
