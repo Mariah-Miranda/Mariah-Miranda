@@ -18,23 +18,12 @@ I'm a developer passionate about building impactful digital solutions that combi
 
 I enjoy turning ideas into real-world systems, exploring AI-powered technologies, and continuously learning new tools that help solve meaningful problems.
 
-- 💜 Purple aesthetic enthusiast
-- 🌍 Proudly representing Uganda in tech 🇺🇬
 - 🤖 Interested in AI, cloud, and smart systems
-- 💡 Currently building health & fintech solutions
-- 💃 Fun fact: I dance almost as much as I code
+- 💡 Currently building automated and digital systems
+- 💃 Fun fact: I love eating
 
 ---
 
-##  Featured Projects
-
-### 🥗 NutriTrack
-An AI-powered Nutritionist Client Management System designed to simplify client management, health tracking, and personalized recommendations.
-
-### 💰 Save2Grow
-A fintech platform integrating Bitcoin-powered savings, group lending, and financial accessibility for underserved communities.
-
----
 
 ## 🛠️ Tech Stack
 
