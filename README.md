@@ -10,7 +10,6 @@
 </div>
 
 
-
 ---
 
 ##  About Me
@@ -47,41 +46,3 @@ I enjoy turning ideas into real-world systems, exploring AI-powered technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-
-##  GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&title_color=8B5CF6&icon_color=8B5CF6&border_color=8B5CF6"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&title_color=8B5CF6&border_color=8B5CF6"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=8B5CF6"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-LINK)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](YOUR-PORTFOLIO)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 *Code. Create. Innovate.*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
-
-</div>
