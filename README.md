@@ -2,12 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Mariah+👋" alt="Typing SVG" />
 
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Creative+Developer+💻;Building+Impactful+Digital+Solutions+🚀;AI+%26+Cloud+Enthusiast+🤖;Problem+Solver+🧩;Always+Learning+🌱" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
-
 
 </div>
 
