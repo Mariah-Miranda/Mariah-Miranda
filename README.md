@@ -30,7 +30,7 @@ I enjoy turning ideas into real-world systems, exploring AI-powered technologies
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
-[![Frontend](https://skillicons.dev/icons?i=html5,css3,ts,react,bootstrap,javascript)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,ts,react,bootstrap,javascript)](https://skillicons.dev)
 
 ### ⚙️ Backend & Languages
 [![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs)](https://skillicons.dev)
