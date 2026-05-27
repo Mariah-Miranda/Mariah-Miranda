@@ -6,9 +6,9 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="20%">
 
-<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="200"/>
 
 </td>
 
