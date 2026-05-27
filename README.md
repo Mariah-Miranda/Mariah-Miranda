@@ -7,7 +7,7 @@
 <img align="left" src ="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="320"/>
 
 
-</div>
+
 
 ---
 
@@ -45,3 +45,4 @@ I enjoy turning ideas into real-world systems, exploring AI-powered technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+</div>
