@@ -1,28 +1,37 @@
 <div align="center">
 
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+there,+I%27m+Mariah" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Mariah" alt="Typing SVG" />
 
-<br><br>
-
-<img align="left" src ="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="320"/>
-
-
-
+</div>
 
 ---
 
-##  About Me
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="300"/>
+
+</td>
+
+<td width="60%">
+
+## 👩‍💻 About Me
 
 I'm a developer passionate about building impactful digital solutions that combine creativity, functionality, and innovation.
 
 I enjoy turning ideas into real-world systems, exploring AI-powered technologies, and continuously learning new tools that help solve meaningful problems.
 
-- 🤖 Interested in AI, cloud, and smart systems
-- 💡 Currently building automated and digital systems
-- 💃 Fun fact: I love eating
+- 🤖 Interested in AI, cloud, and smart systems  
+- 💡 Currently building automated and digital systems  
+- 🌍 Based in Uganda 🇺🇬  
+- 💃 Fun fact: I love eating  
+
+</td>
+</tr>
+</table>
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -43,6 +52,3 @@ I enjoy turning ideas into real-world systems, exploring AI-powered technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-</div>
