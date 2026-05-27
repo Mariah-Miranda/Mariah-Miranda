@@ -10,22 +10,20 @@
 <tr>
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="180"/>
 
 </td>
 
 <td width="60%">
 
-## 👩‍💻 About Me
-
-I'm a developer passionate about building impactful digital solutions that combine creativity, functionality, and innovation.
+I'm a software developer passionate about building impactful digital solutions that combine creativity, functionality, and innovation.
 
 I enjoy turning ideas into real-world systems, exploring AI-powered technologies, and continuously learning new tools that help solve meaningful problems.
 
-- 🤖 Interested in AI, cloud, and smart systems  
-- 💡 Currently building automated and digital systems  
-- 🌍 Based in Uganda 🇺🇬  
-- 💃 Fun fact: I love eating  
+-  Interested in AI, cloud, and smart systems  
+-  Currently building automated and digital systems  
+-  Based in Uganda 🇺🇬  
+-  Fun fact: I love eating  
 
 </td>
 </tr>
