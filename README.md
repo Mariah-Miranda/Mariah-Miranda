@@ -4,13 +4,11 @@
 
 </div>
 
----
-
 <table>
 <tr>
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/Mariah-Miranda/Mariah-Miranda/main/github.gif" width="300"/>
 
 </td>
 
@@ -28,8 +26,6 @@ I enjoy turning ideas into real-world systems, exploring AI-powered technologies
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
